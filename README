@@ -1,6 +1,6 @@
-#RNAseq, Mouse NK cells
+# RNAseq, Mouse NK cells
 Code used for JCB paper: 
-##Cancer cells educate natural killer cells to a metastasis-promoting cell state
+## Cancer cells educate natural killer cells to a metastasis-promoting cell state
 https://doi.org/10.1083/jcb.202001134
 
 NK2020paper_deg: implements DEG analysis using DEseq2 and generates xlsx sheet with genes and values
